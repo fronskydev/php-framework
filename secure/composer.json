@@ -1,0 +1,18 @@
+{
+    "name": "fronskyofficial/php-framework",
+    "description": "Effortlessly transform ideas into powerful web apps with our agile and adaptable framework.",
+    "type": "project",
+    "require": {
+        "vlucas/phpdotenv": "^v5.5",
+        "doctrine/dbal": "^3.6.4",
+        "ext-curl": "*",
+        "phpmailer/phpmailer": "^6.8",
+        "ext-openssl": "*"
+    }
+    ,
+    "require-dev": {
+        "roave/security-advisories": "dev-latest"
+    },
+    "license": "MIT",
+    "minimum-stability": "stable"
+}

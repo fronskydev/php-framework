@@ -1,0 +1,33 @@
+{
+  "name": "PHP Framework by Fronsky®",
+  "short_name": "PHP Framework",
+  "version": "3.0.0",
+  "description": "Effortlessly transform your innovative ideas into impactful and powerful web applications.",
+  "id": "/",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "orientation": "portrait",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "addons/images/icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "addons/images/screenshots/mobile.png",
+      "sizes": "367x811",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "addons/images/screenshots/desktop.png",
+      "sizes": "1909x905",
+      "type": "image/png",
+      "form_factor": "wide"
+    }
+  ]
+}
