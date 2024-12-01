@@ -1,5 +1,11 @@
 # PHP Framework by Fronsky®
 
+| Latest Version |
+|----------------|
+| v3.0.0         |
+
+## Description
+
 Effortlessly turn ideas into powerful web apps with our agile, user-friendly framework. Designed for speed and versatility, it enables dynamic experiences, rapid development, and seamless deployment.
 
 <a href="https://www.flaticon.com/free-icons/cookie" title="cookie icons">Cookie icon created by Freepik - Flaticon</a>
